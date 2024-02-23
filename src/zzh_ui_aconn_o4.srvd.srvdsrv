@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for ZZH_C_ACONN'
+define service ZZH_UI_ACONN_O4 {
+  expose ZZH_C_ACONN;
+}
